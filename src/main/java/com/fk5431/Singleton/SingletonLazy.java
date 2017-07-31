@@ -1,15 +1,19 @@
-package com.fk5431.Singleton;
+package com.fk5431.singleton;
 
 /**
- * Created by fk5431 on 7/31/17.
+ * Created by FK on 2017/7/31.
+ * 懒汉式线程不安全
  */
 public class SingletonLazy {
-    private static SingletonLazy ourInstance = new SingletonLazy();
-
-    public static SingletonLazy getInstance() {
-        return ourInstance;
-    }
+    private static SingletonLazy singletonLazy;
 
     private SingletonLazy() {
+    }
+
+    public static SingletonLazy getInstance() {
+        if (singletonLazy == null) {
+            singletonLazy = new SingletonLazy();
+        }
+        return singletonLazy;
     }
 }

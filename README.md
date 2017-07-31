@@ -34,8 +34,8 @@ designPatterns example
 
 5. 原型模式
 
-[建造者模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Prototype//)
+[原型模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Prototype//)
 
-[建造者模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76049671)
+[原型模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76049671)
 
 
