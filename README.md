@@ -48,21 +48,21 @@ designPatterns example
 
 7. 桥接模式
 
-[桥接模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Prototype/)
+[桥接模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Bridge/)
 
-[桥接模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76049671)
+[桥接模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76158080)
 
 
 8. 过滤器模式
 
-[过滤器模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Prototype/)
+[过滤器模式(个人博客)](http://fk5431.com/20170724/Design_pattern/filter/)
 
-[过滤器模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76049671)
+[过滤器模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76180436)
 
 
 9. 组合模式
 
-[组合模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Prototype/)
+[组合模式(个人博客)](http://fk5431.com/20170724/Design_pattern/composite/)
 
 [组合模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76049671)
 
