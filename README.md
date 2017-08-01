@@ -34,8 +34,36 @@ designPatterns example
 
 5. 原型模式
 
-[原型模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Prototype//)
+[原型模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Prototype/)
 
 [原型模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76049671)
+
+
+6. 适配器模式
+
+[适配器模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Adapter/)
+
+[适配器模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76074686)
+
+
+7. 桥接模式
+
+[桥接模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Prototype/)
+
+[桥接模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76049671)
+
+
+8. 过滤器模式
+
+[过滤器模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Prototype/)
+
+[过滤器模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76049671)
+
+
+9. 组合模式
+
+[组合模式(个人博客)](http://fk5431.com/20170724/Design_pattern/Prototype/)
+
+[组合模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76049671)
 
 
