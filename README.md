@@ -90,6 +90,40 @@ designPatterns example
 
 13. 代理模式
 
-[代理模式(个人博客)]()
+[代理模式(个人博客)](http://fk5431.com/20170803/Design_pattern/proxy/)
 
-[代理模式(csdn博客)]()
+[代理模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76690679)
+
+
+14. 责任链模式
+
+[责任链模式(个人博客)](http://fk5431.com/20170806/Design_pattern/chainOfResponsibility/)
+
+[责任链模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76795912)
+
+15. 命令模式
+
+[命令模式(个人博客)]()
+
+[命令模式(csdn博客)]()
+
+
+16. 解释器模式
+
+[解释器模式(个人博客)]()
+
+[解释器模式(csdn博客)]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
