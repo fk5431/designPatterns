@@ -105,7 +105,7 @@ designPatterns example
 
 [命令模式(个人博客)]()
 
-[命令模式(csdn博客)]()
+[命令模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/76974810)
 
 
 16. 解释器模式
@@ -113,6 +113,13 @@ designPatterns example
 [解释器模式(个人博客)]()
 
 [解释器模式(csdn博客)]()
+
+
+17. 迭代器模式
+
+[迭代器模式(个人博客)]()
+
+[迭代器模式(csdn博客)]()
 
 
 
