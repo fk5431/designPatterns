@@ -112,7 +112,7 @@ designPatterns example
 
 [解释器模式(个人博客)]()
 
-[解释器模式(csdn博客)]()
+[解释器模式(csdn博客)](http://blog.csdn.net/fk5431/article/details/77281754)
 
 
 17. 迭代器模式
